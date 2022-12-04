@@ -143,8 +143,12 @@ body{
     font-size: xx-large;
   }
 
-  .btnCloseImg, .btnSaveImg, .imgtrivia{
+  .btnCloseImg, .btnSaveImg{
     text-shadow: 2px 2px 5px #000000;
+  }
+  
+  .imgSombra{
+    filter: drop-shadow(2px 4px 6px black);
   }
   
   .btnSaveImg{
