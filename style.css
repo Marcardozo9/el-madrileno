@@ -143,7 +143,7 @@ body{
     font-size: xx-large;
   }
 
-  .btnCloseImg, .btnSaveImg .imgtrivia{
+  .btnCloseImg, .btnSaveImg, .imgtrivia{
     text-shadow: 2px 2px 5px #000000;
   }
   
